@@ -1,2 +1,0 @@
-# Tugas ETS
-Test
